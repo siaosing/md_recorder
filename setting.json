@@ -1,0 +1,21 @@
+{
+    "TD_FrontAddr": "tcp://180.169.112.54:42205",
+    "BROKERID": "",
+    "USERID": "",
+    "PASSWORD": "",
+    "AppID": "",
+    "AuthCode": "",
+    "MD_FrontAddr": "tcp://180.169.112.54:42213",
+    "instrument_not_sub": [
+        "bb",
+        "CY",
+        "fb",
+        "JR",
+        "LR",
+        "PM",
+        "RI",
+        "rr",
+        "WH",
+        "wr"
+    ]
+}
